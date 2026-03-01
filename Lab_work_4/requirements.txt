@@ -1,0 +1,10 @@
+torch
+transformers
+librosa
+soundfile
+
+langchain
+langchain-google-genai
+pydantic
+
+python-decouple
